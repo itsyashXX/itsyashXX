@@ -32,7 +32,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsyashxx&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsyashXX&show_icons=true&theme=tokyonight&cache_seconds=1800))
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashxx&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashXX&layout=compact&theme=tokyonight)
 
  ---
 
