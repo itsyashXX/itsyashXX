@@ -30,9 +30,7 @@
 - 🚀 Build Professional Projects
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.demolab.com/api?username=itsyashXX&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsyashXX&show_icons=true&theme=tokyonight)
 
 ---
 
