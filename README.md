@@ -44,7 +44,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyashXX&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.demolab.com/api/top-langs/?username=itsyashXX&layout=compact&theme=tokyonight)
 
  ---
 
