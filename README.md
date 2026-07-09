@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Hi%20There,%20I'm%20Yash%20👋&fontSize=40&fontColor=FFD60A&animation=fadeIn&fontAlignY=35&desc=Linux%20•%20Hosting%20•%20Cloudflare%20•%20Cybersecurity&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Hi%20There,%20I'm%20Yash%20👋&fontSize=40&fontColor=FFD60A&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Cybersecurity%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=600&lines=Hosting+Infrastructure+Enthusiast;Linux+Server+Administrator;Cloudflare+%26+DNS+Management;Cybersecurity+Learner;Building+My+Future+One+Step+At+A+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD60A&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Next.js+%2B+Supabase+%2B+TypeScript;Ethical+Hacking+%26+Penetration+Testing+Learner;Building+Real+Products+From+Scratch;Always+Learning%2C+Always+Building" />
 
 <br/>
 
@@ -17,11 +17,10 @@
 ## 🚀 About Me
 
 ```yaml
-🔧 VPS Setup & Management
-🐧 Linux Administration
-🌐 Cloudflare & DNS Management
-🎮 Pterodactyl Panel Management
-🛡️ Cybersecurity & Penetration Testing — Learner
+💻 Full Stack Web Developer — Next.js, Supabase, TypeScript
+🔐 Cybersecurity & Penetration Testing — Learner
+🧠 Self-taught, building real products independently
+🐧 Comfortable in Linux environments
 🇮🇳 Based in India
 ```
 
@@ -31,15 +30,26 @@
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Security & Pentesting
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -47,11 +57,11 @@
 
 ## 🎯 Current Goals
 
+- [ ] 🕸️ Go deeper into full stack architecture & system design
+- [ ] 🔐 Build a strong foundation in penetration testing (OWASP Top 10, network security)
+- [ ] 🧪 Practice on platforms like TryHackMe / HackTheBox
+- [ ] 🚀 Ship more production-grade full stack projects
 - [ ] 💻 Buy My First PC
-- [ ] 📚 Improve Linux Skills
-- [ ] 🌐 Master Networking
-- [ ] 🛡️ Become Skilled In Cybersecurity
-- [ ] 🚀 Build Professional Projects
 
 <br/>
 
