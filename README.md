@@ -92,6 +92,21 @@
 [![GitHub](https://img.shields.io/badge/GitHub-itsyashXX-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsyashXX)
 
 </div>
+## ☕ Support Me
+
+<div align="center">
+
+If you like my work, consider supporting me!
+
+**UPI ID:** `yash258@fam`
+
+[
+
+![UPI](https://img.shields.io/badge/UPI-yash258%40fam-FFD60A?style=for-the-badge&logo=googlepay&logoColor=black)
+
+](upi://pay?pa=yash258@fam&pn=Yash)
+
+</div>
 
 <br/>
 
