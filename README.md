@@ -99,9 +99,5 @@
 
 ⭐ **Always Learning New Things**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer" width="100%"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/itsyashXX/itsyashXX/output/snake.svg" width="100%"/>
 </div>
-
