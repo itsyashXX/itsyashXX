@@ -103,3 +103,6 @@
 
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/itsyashXX/itsyashXX/output/github-snake-dark.svg" width="100%"/>
+</div>
